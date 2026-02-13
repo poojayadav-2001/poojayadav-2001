@@ -91,14 +91,16 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 
 ---
 
-### Indian Petroleum Stocks Analysis
-<p>
-  <img src="Indian Petroleum Market.png" width="800"/>
+### ✈️ Indian Air Transport Performance Analysis
+
+<p align="center">
+  <img src="IT_Dashboard.png" width="800"/>
 </p>
 
-- Evaluated the Indian Petroleum Stocks in Private and PSU sectors. 
-- Performed data cleaning, EDA, and visual analysis.
-- *Tools:* SQL, Python, Matplotlib,Seaborn, Numpy, Pandas, Power BI.
-- *Project link:*https://github.com/Tejaspotraje/indian-petroleum-stocks-analysis-excel-python-powerbi.git
+- Evaluated India’s Air Transport performance (2015–2025) across passenger traffic, aircraft movement, and cargo operations.
+- Performed data cleaning, modeling, KPI creation, and interactive dashboard development in Power BI.
+- Conducted trend analysis to identify growth patterns, regional performance, COVID impact, and post-pandemic recovery.
+- *Tools: Power BI, DAX, Excel, Data Modeling, Data Visualization.
+- *Project link: *[https://github.com/poojayadav-2001/Indian-Air-Transport-Performance-Dashboard.git]
 
 ---
