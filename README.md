@@ -104,3 +104,17 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 - *Project link: *[https://github.com/poojayadav-2001/Indian-Air-Transport-Performance-Dashboard.git]
 
 ---
+
+### 📊 Urban Food & Pharmacy Access Optimizer
+
+<p align="center">
+  <img src="IT_Dashboard.png" width="800"/>
+</p>
+
+Analyzed urban grocery and pharmacy datasets to evaluate accessibility distribution across cities and categories.  
+Performed SQL-based ETL for data cleaning, null handling, and data consolidation.  
+Built interactive Power BI dashboards to visualize geospatial coverage and accessibility gaps.  
+
+Tools: SQL (MySQL), Power BI, Excel, Git, GitHub.  
+Project link: https://github.com/poojayadav-2001/Urban-Food-Pharmacy-Access-Optimizer
+
