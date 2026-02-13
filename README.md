@@ -79,15 +79,15 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 
 # Projects
 
-### Quality crisies the surges of Adulteration.
-<p>
-  <img src="download (1).jpg" width="800"/>
+### 📊 IT Companies Stock Analysis Dashboard (2016–2025) 
+<p align="center">
+  <img src="IT_Dashboard.png" width="800"/>
 </p>
 
 - Analyzed sales data to identify alduration trends, top aldurated productes and its state, and penalties imposed.  
 - Built interactive dashboards to support data-driven decisions. 
 - *Tools:* Python, Pandas, Power BI, Advanced Excel.
-- *Project link:*https://github.com/Tejaspotraje/Dairy-and-Pharmaceutical-Adulteration-Project.git
+- *Project link:*[https://github.com/poojayadav-2001/IT-Companies-Stock-Analysis.git]
 
 ---
 
