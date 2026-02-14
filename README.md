@@ -81,7 +81,7 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 
 ### 📊 IT Companies Stock Analysis Dashboard (2016–2025) 
 <p align="center">
-  <img src="IT_Dashboard.png" width="800"/>
+  <img src="Screenshots/IT_Dashboard.png" width="800"/>
 </p>
 
 - Analyzed sales data to identify alduration trends, top aldurated productes and its state, and penalties imposed.  
