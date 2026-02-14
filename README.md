@@ -81,7 +81,7 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 
 ### 📊 IT Companies Stock Analysis Dashboard (2016–2025) 
 <p align="center">
-  <img src="Screenshots/IT_Dashboard.png" width="800"/>
+  <img src="https://github.com/poojayadav-2001/poojayadav-2001/blob/6d2d035436597c7c5f3676641ec1cfc09bb9848c/IT_companies.png" width="1000"/>
 </p>
 
 - Analyzed sales data to identify alduration trends, top aldurated productes and its state, and penalties imposed.  
@@ -94,7 +94,7 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 ### ✈️ Indian Air Transport Performance Analysis
 
 <p align="center">
-  <img src="IT_Dashboard.png" width="800"/>
+  <img src="https://github.com/poojayadav-2001/poojayadav-2001/blob/3030d31ef68893fee5a628bbb74daff521523c40/Indian_airport.png" width="1000"/>
 </p>
 
 - Evaluated India’s Air Transport performance (2015–2025) across passenger traffic, aircraft movement, and cargo operations.
@@ -108,7 +108,7 @@ I work on real-world datasets using *Python, SQL, Excel, and Power BI* to solve 
 ### 📊 Urban Food & Pharmacy Access Optimizer
 
 <p align="center">
-  <img src="IT_Dashboard.png" width="800"/>
+  <img src="https://github.com/poojayadav-2001/poojayadav-2001/blob/3030d31ef68893fee5a628bbb74daff521523c40/Overview.png" width="1000"/>
 </p>
 
 Analyzed urban grocery and pharmacy datasets to evaluate accessibility distribution across cities and categories.  
